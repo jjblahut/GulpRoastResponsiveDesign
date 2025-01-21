@@ -111,12 +111,12 @@ h1, h2 {
   border-radius: 10px;
 }
 .welcome-img {
-  content: url(/images/gulp-menu.jpg);
+  content: url(images/gulp-menu.jpg);
   object-fit: contain;
   display: inline-block;
 }
 .contact-us-img {
-  content: url(/images/gulp-drinking-coffee.jpg);
+  content: url(images/gulp-drinking-coffee.jpg);
   object-fit: contain;
   display: inline-block;
 }
@@ -158,7 +158,7 @@ h1, h2 {
 .img-caption img {
     background-color: #f2f2f2;
     padding: 10px;
-    content: url(/images/gulp-pouring-coffee-horizontal-sm.jpg);
+    content: url(images/gulp-pouring-coffee-horizontal-sm.jpg);
 }
 footer {
     text-align: center;
@@ -279,16 +279,16 @@ footer {
     .img-caption img {
         background-color: #f2f2f2;
         padding: 10px;
-        content: url(/images/gulp-pouring-coffee-vertical.jpg);
+        content: url(images/gulp-pouring-coffee-vertical.jpg);
     }
     .welcome-img {
-      content: url(/images/gulp-menu.jpg);
+      content: url(images/gulp-menu.jpg);
       object-fit: contain;
       display: inline-block;
       width: 400px;
     }
     .contact-us-img {
-      content: url(/images/gulp-drinking-coffee.jpg);
+      content: url(images/gulp-drinking-coffee.jpg);
       object-fit: contain;
       display: inline-block;
       width: 400px;
@@ -436,16 +436,16 @@ footer {
       .img-caption img {
         background-color: #f2f2f2;
         padding: 10px;
-        content: url(/images/gulp-pouring-coffee-horizontal.jpg);
+        content: url(images/gulp-pouring-coffee-horizontal.jpg);
       }
       .welcome-img {
-        content: url(/images/gulp-menu.jpg);
+        content: url(images/gulp-menu.jpg);
         object-fit: contain;
         display: inline-block;
         width: 500px;
       }
       .contact-us-img {
-        content: url(/images/gulp-drinking-coffee.jpg);
+        content: url(images/gulp-drinking-coffee.jpg);
         object-fit: contain;
         display: inline-block;
         width: 500px;
